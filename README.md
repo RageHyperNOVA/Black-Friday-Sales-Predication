@@ -1,1 +1,1 @@
-# Black-Friday-Sales-Predication
+# Black-Friday-Sales-Prediction
